@@ -14,7 +14,7 @@ $authUrl = getAuthorizationUrl("", "");
 </head>
 <body>
 
-<a href=<?php echo "'" . $authUrl . "'" ?>>Authorize</a>
+<a href=<?php echo "'" . $authUrl . "'" ?>>Authorize </a>
 
 </body>
 </html>
